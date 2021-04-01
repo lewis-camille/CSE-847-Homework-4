@@ -1,5 +1,6 @@
 # CSE-847-Homework-4
-MATLAB implementations for CSE 847 Homework 4
+## MATLAB implementations for CSE 847 Homework 4
+## Camille Lewis
 
 The code for question 1: logistic_regression.m
 
